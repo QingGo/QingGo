@@ -6,4 +6,6 @@
 
 ## 📝 最新博客文章
 <!-- BLOG-POST-LIST:START -->
+- [PRML Summary](https://qinggo.github.io/notes/prml-summary/)
+- [The Book of WHY Summary](https://qinggo.github.io/notes/the-book-of-why-summary/)
 <!-- BLOG-POST-LIST:END -->
