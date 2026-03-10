@@ -1,0 +1,21 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # 每小时运行一次（你也可以根据需要调整 cron 表达式）
+    - cron: '0 * * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # 你的博客 RSS 地址
+          feed_list: "https://qinggo.github.io/index.xml"
+          # 可选：限制显示的文章数量（默认是2）
+          max_post_count: 2
+          # 可选：自定义占位符标签，如果你用了别的名称可以修改
+          # comment_tag_name: "BLOG-POST-LIST"
