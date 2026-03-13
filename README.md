@@ -6,6 +6,6 @@
 
 ## 📝 最新博客文章
 <!-- BLOG-POST-LIST:START -->
+- [《Reinforcement Learning An Introduction》Summary](https://qinggo.github.io/notes/sutton-rl-v2-summary/)
 - [《Probabilistic Machine Learning: An Introduction》Summary](https://qinggo.github.io/notes/probabilistic-machine-learning-an-introduction-summary/)
-- [PRML Summary](https://qinggo.github.io/notes/prml-summary/)
 <!-- BLOG-POST-LIST:END -->
