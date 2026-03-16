@@ -6,6 +6,9 @@
 
 ## 📝 最新博客文章
 <!-- BLOG-POST-LIST:START -->
+- [《Deep Learning》Summary](https://qinggo.github.io/notes/deep-learning-goodfellow/)
 - [《Reinforcement Learning An Introduction》Summary](https://qinggo.github.io/notes/sutton-rl-v2-summary/)
 - [《Probabilistic Machine Learning: An Introduction》Summary](https://qinggo.github.io/notes/probabilistic-machine-learning-an-introduction-summary/)
+- [PRML Summary](https://qinggo.github.io/notes/prml-summary/)
+- [The Book of WHY Summary](https://qinggo.github.io/notes/the-book-of-why-summary/)
 <!-- BLOG-POST-LIST:END -->
