@@ -10,5 +10,5 @@
 - [Base64 Playground](https://qinggo.github.io/tools/base64-playground/)
 - [Gradient Lab](https://qinggo.github.io/tools/gradient-lab/)
 - [JSON Formatter](https://qinggo.github.io/tools/json-formatter/)
-- [《Deep Learning》Summary](https://qinggo.github.io/notes/deep-learning-goodfellow/)
+- [KFC Quiz generator](https://qinggo.github.io/tools/kfc-quiz-generator/)
 <!-- BLOG-POST-LIST:END -->
