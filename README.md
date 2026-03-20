@@ -7,8 +7,8 @@
 ## 📝 最新博客文章
 <!-- BLOG-POST-LIST:START -->
 - [Probabilistic Machine Learn Advanced Topics Summary](https://qinggo.github.io/notes/probabilistic-machine-learn-advanced-topics-summary/)
+- [Base64 Playground](https://qinggo.github.io/tools/base64-playground/)
+- [Gradient Lab](https://qinggo.github.io/tools/gradient-lab/)
+- [JSON Formatter](https://qinggo.github.io/tools/json-formatter/)
 - [《Deep Learning》Summary](https://qinggo.github.io/notes/deep-learning-goodfellow/)
-- [《Reinforcement Learning An Introduction》Summary](https://qinggo.github.io/notes/sutton-rl-v2-summary/)
-- [《Probabilistic Machine Learning: An Introduction》Summary](https://qinggo.github.io/notes/probabilistic-machine-learning-an-introduction-summary/)
-- [PRML Summary](https://qinggo.github.io/notes/prml-summary/)
 <!-- BLOG-POST-LIST:END -->
