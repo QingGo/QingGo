@@ -6,9 +6,9 @@
 
 ## 📝 最新博客文章
 <!-- BLOG-POST-LIST:START -->
+- [LLM Architecture Lab](https://qinggo.github.io/tools/llm-architecture-lab/)
 - [线性代数几何直观及其深度学习应用](https://qinggo.github.io/2026/03/22/matrix-geometry-from-unit-circle-to-deep-learning/)
 - [Probabilistic Machine Learn Advanced Topics Summary](https://qinggo.github.io/notes/probabilistic-machine-learn-advanced-topics-summary/)
 - [Base64 Playground](https://qinggo.github.io/tools/base64-playground/)
 - [Gradient Lab](https://qinggo.github.io/tools/gradient-lab/)
-- [JSON Formatter](https://qinggo.github.io/tools/json-formatter/)
 <!-- BLOG-POST-LIST:END -->
